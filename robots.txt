@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://gosti12.ru/sitemap.xml
